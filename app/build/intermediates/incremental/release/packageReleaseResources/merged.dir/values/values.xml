@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_emerald">#10B981</color>
+    <color name="background_dark">#000000</color>
+    <color name="background_light">#FAFAFA</color>
+    <color name="black">#000000</color>
+    <color name="surface_dark">#121214</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Nuvodo</string>
+    <style name="Theme.Nuvodo" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

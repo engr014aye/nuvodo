@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.72"
+        android:scaleY="0.72"
+        android:translateX="15.12"
+        android:translateY="15.12">
+        <!-- Outer Focus Ring Track (Translucent Subtle Border) -->
+        <path
+            android:pathData="M54,14 C31.909,14 14,31.909 14,54 C14,76.091 31.909,94 54,94 C76.091,94 94,76.091 94,54 C94,31.909 76.091,14 54,14 Z"
+            android:strokeColor="#2E2E34"
+            android:strokeWidth="2.5"
+            android:fillColor="#00000000" />
+
+        <!-- 6 Priority Slot Segments / Radial Dots (The Rule of 6) -->
+        <path
+            android:pathData="M69,28 A4,4 0 1,1 69,27.99 Z"
+            android:fillColor="#E5E7EB" />
+        <path
+            android:pathData="M80,54 A4,4 0 1,1 80,53.99 Z"
+            android:fillColor="#E5E7EB" />
+        <path
+            android:pathData="M69,80 A4,4 0 1,1 69,79.99 Z"
+            android:fillColor="#E5E7EB" />
+        <path
+            android:pathData="M39,80 A4,4 0 1,1 39,79.99 Z"
+            android:fillColor="#E5E7EB" />
+        <path
+            android:pathData="M28,54 A4,4 0 1,1 28,53.99 Z"
+            android:fillColor="#E5E7EB" />
+        <path
+            android:pathData="M39,28 A4,4 0 1,1 39,27.99 Z"
+            android:fillColor="#E5E7EB" />
+
+        <!-- Central Precision Checkmark & Clean Slate Arc -->
+        <path
+            android:pathData="M43,54 L51,62 L66,45"
+            android:strokeColor="#10B981"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:fillColor="#00000000" />
+    </group>
+</vector>
